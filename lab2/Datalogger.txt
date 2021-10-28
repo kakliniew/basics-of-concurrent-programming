@@ -1,0 +1,7 @@
+Sat May 22 16:59:44 2021
+Mnożenie macierzy A[466, 6] i B[6, 466] czas szeregowo : 0.043000 czas rownolegle: 0.017000
+Parametry zrownoleglenia:
+- liczba watkow 4
+- wartosc collapse 2
+- aktualna taktyka schedule static, 5
+- uzycie zagniezdzonej rownoleglosci 0

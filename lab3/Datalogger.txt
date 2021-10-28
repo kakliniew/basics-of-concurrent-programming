@@ -1,0 +1,90 @@
+Fri Apr 30 23:46:08 2021
+Rozwiazywanie rownan z liczbą watkow czas szeregowo : 0.001000 czas rownolegle: 0.001000
+Parametry zrownoleglenia:
+- liczba watkow 4
+Z czesciowym wyborem elementu podstawowego
+
+Fri Apr 30 23:46:09 2021
+Rozwiazywanie rownan z liczbą watkow czas szeregowo : 0.001000 czas rownolegle: 0.004000
+Parametry zrownoleglenia:
+- liczba watkow 4
+Z pełnym wyborem elementu podstawowego
+
+Fri Apr 30 23:46:12 2021
+Rozwiazywanie rownan z liczbą watkow czas szeregowo : 0.001000 czas rownolegle: 0.001000
+Parametry zrownoleglenia:
+- liczba watkow 4
+Z czesciowym wyborem elementu podstawowego
+
+Fri Apr 30 23:46:12 2021
+Rozwiazywanie rownan z liczbą watkow czas szeregowo : 0.001000 czas rownolegle: 0.002000
+Parametry zrownoleglenia:
+- liczba watkow 4
+Z pełnym wyborem elementu podstawowego
+
+Fri Apr 30 23:46:13 2021
+Rozwiazywanie rownan z liczbą watkow czas szeregowo : 0.001000 czas rownolegle: 0.001000
+Parametry zrownoleglenia:
+- liczba watkow 4
+Z czesciowym wyborem elementu podstawowego
+
+Fri Apr 30 23:46:14 2021
+Rozwiazywanie rownan z liczbą watkow czas szeregowo : 0.002000 czas rownolegle: 0.001000
+Parametry zrownoleglenia:
+- liczba watkow 4
+Z pełnym wyborem elementu podstawowego
+
+Fri Apr 30 23:46:15 2021
+Rozwiazywanie rownan z liczbą watkow czas szeregowo : 0.003000 czas rownolegle: 0.001000
+Parametry zrownoleglenia:
+- liczba watkow 4
+Z czesciowym wyborem elementu podstawowego
+
+Fri Apr 30 23:46:16 2021
+Rozwiazywanie rownan z liczbą watkow czas szeregowo : 0.001000 czas rownolegle: 0.002000
+Parametry zrownoleglenia:
+- liczba watkow 4
+Z pełnym wyborem elementu podstawowego
+
+Fri Apr 30 23:46:19 2021
+Rozwiazywanie rownan z liczbą watkow czas szeregowo : 0.001000 czas rownolegle: 0.001000
+Parametry zrownoleglenia:
+- liczba watkow 4
+Z czesciowym wyborem elementu podstawowego
+
+Fri Apr 30 23:46:19 2021
+Rozwiazywanie rownan z liczbą watkow czas szeregowo : 0.001000 czas rownolegle: 0.001000
+Parametry zrownoleglenia:
+- liczba watkow 4
+Z pełnym wyborem elementu podstawowego
+
+Fri Apr 30 23:46:20 2021
+Rozwiazywanie rownan z liczbą watkow czas szeregowo : 0.002000 czas rownolegle: 0.002000
+Parametry zrownoleglenia:
+- liczba watkow 4
+Z czesciowym wyborem elementu podstawowego
+
+Fri Apr 30 23:46:20 2021
+Rozwiazywanie rownan z liczbą watkow czas szeregowo : 0.001000 czas rownolegle: 0.001000
+Parametry zrownoleglenia:
+- liczba watkow 4
+Z pełnym wyborem elementu podstawowego
+
+Fri Apr 30 23:46:20 2021
+Rozwiazywanie rownan z liczbą watkow czas szeregowo : 0.002000 czas rownolegle: 0.001000
+Parametry zrownoleglenia:
+- liczba watkow 4
+Z czesciowym wyborem elementu podstawowego
+
+Fri Apr 30 23:46:21 2021
+Rozwiazywanie rownan z liczbą watkow czas szeregowo : 0.002000 czas rownolegle: 0.002000
+Parametry zrownoleglenia:
+- liczba watkow 4
+Z pełnym wyborem elementu podstawowego
+
+Fri Apr 30 23:46:22 2021
+Rozwiazywanie rownan z liczbą watkow czas szeregowo : 0.001000 czas rownolegle: 0.002000
+Parametry zrownoleglenia:
+- liczba watkow 4
+Z czesciowym wyborem elementu podstawowego
+
